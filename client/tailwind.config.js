@@ -9,7 +9,7 @@ export default {
       colors: {
         background: {
           primary: '#ffffff', // plain white background
-          secondary: #333333;  /* classic dark grey */
+          secondary: '#333333',// classic dark grey //
         },
         accent: {
           blue: '#2563eb', // primary blue color
